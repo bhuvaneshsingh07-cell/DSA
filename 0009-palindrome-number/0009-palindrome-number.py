@@ -3,7 +3,7 @@ class Solution(object):
         self.x=x
         rem=0
         nums=x
-        s=str(nums)
+        
 
         while nums>0:
             rem=(rem*10)+(nums%10)
