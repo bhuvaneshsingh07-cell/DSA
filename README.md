@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
