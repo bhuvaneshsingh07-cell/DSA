@@ -5,8 +5,8 @@ class Solution(object):
         arr=[0]*a
         for i in range(0,a):
             sum=0
-            for j in range(0,a):
-                if nums[i]>nums[j]:
+            for j in nums:
+                if nums[i]>j:
                     sum+=1
                     arr[i]=sum
 
