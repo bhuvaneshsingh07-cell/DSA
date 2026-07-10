@@ -13,7 +13,7 @@ class Solution(object):
                 
                     arr[i]=sum
 
-                    continue
+                    
                 else:
                     pass
         return arr
