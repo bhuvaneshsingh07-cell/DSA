@@ -10,7 +10,6 @@ class Solution(object):
             for j in range(0,len(candies)):
                 if d<candies[j]:
                     a[i]=False
-                
         return a
         
         
