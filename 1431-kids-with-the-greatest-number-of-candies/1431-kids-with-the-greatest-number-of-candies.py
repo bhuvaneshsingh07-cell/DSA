@@ -2,12 +2,12 @@ class Solution(object):
     def kidsWithCandies(self, candies, extraCandies):
         self.candies=candies
         self.extraCandies=extraCandies
-        b=len(candies)
-        a=[True]*b
+        
+        a=[True]*len(candies)
 
-        for i in range(0,b):
+        for i in range(0,len(candies)):
             d=candies[i]+extraCandies
-            for j in range(0,b):
+            for j in range(0,len(candies)):
                 if d<candies[j]:
                     a[i]=False
                 
