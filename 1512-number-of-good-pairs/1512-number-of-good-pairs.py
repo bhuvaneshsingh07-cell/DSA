@@ -1,6 +1,6 @@
 class Solution(object):
     def numIdenticalPairs(self, nums):
-        self.nums=nums
+        
         a=len(nums)
         sum=0
         for i in range(0,a):
