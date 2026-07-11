@@ -1,15 +1,13 @@
-class Solution(object):
-    def kidsWithCandies(self, candies, extraCandies):
+class Solution:
+    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
         self.candies=candies
         self.extraCandies=extraCandies
-        a=[True]*len(candies)
-        for i in range(0,len(candies)):
-            d=candies[i]+extraCandies
-            for j in range(0,len(candies)):
-                if d<candies[j]:
-                    a[i]=False
-        return a
+        mx=max(candies)
+        result=[]
+        for i in candies:
+            if i+extraCandies>=mx:
+                result.append(True)
+            else:
+                result.append(False)
+        return result
         
-        
-        
-
