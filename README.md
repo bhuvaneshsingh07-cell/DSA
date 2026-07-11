@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
