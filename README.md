@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
