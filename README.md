@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -81,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
