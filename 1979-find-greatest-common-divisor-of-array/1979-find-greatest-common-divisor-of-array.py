@@ -7,7 +7,6 @@ class Solution(object):
                 a,b= b,a % b
             return a
         
-        f=gcd(d,e)
-        return f
+        return gcd(d,e)
 
         
