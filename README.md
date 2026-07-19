@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0344-reverse-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
 ## Bit Manipulation
