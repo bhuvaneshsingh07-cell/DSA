@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1470-shuffle-the-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
