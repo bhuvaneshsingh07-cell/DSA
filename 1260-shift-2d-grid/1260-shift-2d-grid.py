@@ -12,7 +12,6 @@ class Solution(object):
         for i in range(m):
             for j in range(n):
                 index=i*n+j+k
-                newrow=(index/n)%m
-                newcol=index%n
-                ans[newrow][newcol]=grid[i][j]
+                
+                ans[(index/n)%m][index%n]=grid[i][j]
         return ans
