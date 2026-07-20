@@ -13,5 +13,5 @@ class Solution(object):
             for j in range(n):
                 index=i*n+j+k
                 
-                ans[(index/n)%m][index%n]=grid[i][j]
+                ans[(index//n)%m][index%n]=grid[i][j]
         return ans
