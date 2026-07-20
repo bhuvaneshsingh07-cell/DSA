@@ -9,10 +9,10 @@ class Solution(object):
         
         while len(nums)!=0:
             alice=min(nums)
-            alice0=nums.remove(alice)
+            nums.remove(alice)
             bob=min(nums)
-            bob0=nums.remove(bob)
-            d=arr.append(bob)
-            e=arr.append(alice)
+            nums.remove(bob)
+            arr.append(bob)
+            arr.append(alice)
            
         return arr
