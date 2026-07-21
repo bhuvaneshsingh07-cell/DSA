@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
