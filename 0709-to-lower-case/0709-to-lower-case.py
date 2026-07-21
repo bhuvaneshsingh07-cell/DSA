@@ -4,5 +4,16 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        a=s.lower()
-        return a
+          
+        b=""          
+        for i in s:
+            if i.isupper():
+
+
+
+                b+=chr(ord(i)+32)
+            else:
+                b+=i       
+        return b
+
+        
