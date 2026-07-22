@@ -7,8 +7,9 @@ class Solution(object):
         """
         a=[]
         for i in range(len(words)):
-            for j in range(len(words[i])):
-                if words[i][j]==x:
+            
+            
+            if x in words[i]:
                     a.append(i)
-                    break
+                    
         return a
