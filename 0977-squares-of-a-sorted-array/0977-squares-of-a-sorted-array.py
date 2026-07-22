@@ -8,5 +8,5 @@ class Solution(object):
             nums[i]=nums[i]*nums[i]
         nums.sort()
         return nums
-        
+
         
