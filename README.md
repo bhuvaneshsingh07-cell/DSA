@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
