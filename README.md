@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0367-valid-perfect-square) |
 ## Number Theory
 |  |
 | ------- |
