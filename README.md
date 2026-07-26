@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0657-robot-return-to-origin) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2974-minimum-number-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
