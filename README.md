@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0867-transpose-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
