@@ -5,7 +5,7 @@ class Solution(object):
         :type num2: str
         :rtype: str
         """
-        result=int(num1)+int(num2)
-        a=str(result)
-        return a
+        (result)=int(num1)+int(num2)
+        
+        return str(result)
         
