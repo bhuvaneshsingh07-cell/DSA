@@ -8,10 +8,8 @@ class Solution(object):
         for i in nums:
             hashmap[i]=hashmap.get(i, 0) + 1
         val=hashmap.values()
-        Max=0
-        for i in val:
-            if i>Max:
-                Max=i
+        Max=max(val)
+        
         
         if Max>=2:
             return True
