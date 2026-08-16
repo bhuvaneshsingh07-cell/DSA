@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0415-add-strings) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -150,12 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Number Theory
