@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1470-shuffle-the-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2974-minimum-number-game) |
