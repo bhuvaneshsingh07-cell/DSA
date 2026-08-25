@@ -5,13 +5,13 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        a=[]
+        key=[]
         hashmap={}
         for i in nums1:
             if i in nums2:
                 hashmap[i]=hashmap.get(i,0)+1
-        for key in hashmap:
-            a.append(key)
-        return a
+        for k in hashmap:
+            key.append(k)
+        return key
 
         
