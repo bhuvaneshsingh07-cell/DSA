@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
