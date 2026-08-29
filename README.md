@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
