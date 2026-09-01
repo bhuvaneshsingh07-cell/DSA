@@ -9,13 +9,7 @@ class Solution(object):
         Max=max(nums)
         Min=min(nums)
         for i in range(Min,Max):
-            if i in nums:
-                pass
+            
             if i not in nums:
                 nu.append(i)
-        if len(nums)!=0:
-            return nu
-        else:
-            return nu
-       
-        
+        return nu
