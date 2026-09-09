@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3794-reverse-string-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
