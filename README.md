@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3110-score-of-a-string) |
+| [3340-check-balanced-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
