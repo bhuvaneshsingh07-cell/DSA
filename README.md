@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
