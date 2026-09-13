@@ -6,6 +6,7 @@ class Solution(object):
         :rtype: int
         """
         Max=[]
+        #for copy nums in Min
         Min=nums[:]
        
       
