@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1122-relative-sort-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2000-reverse-prefix-of-word) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
