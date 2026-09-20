@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
