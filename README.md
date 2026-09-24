@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0268-missing-number) |
@@ -295,10 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1122-relative-sort-array) |
 ## Stack
