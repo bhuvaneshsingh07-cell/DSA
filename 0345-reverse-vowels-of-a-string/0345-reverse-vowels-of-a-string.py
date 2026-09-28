@@ -9,10 +9,12 @@ class Solution(object):
 
         i=0
         j=len(s)-1
+        s=list(s)
+       
         while i<=j:
             if s[i] in vowel:
                 if s[j] in vowel:
-                    s=list(s)
+                    
                     s[i],s[j]=s[j],s[i]
                     i+=1
                     j-=1
