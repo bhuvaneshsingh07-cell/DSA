@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0415-add-strings) |
