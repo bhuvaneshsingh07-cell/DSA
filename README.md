@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2942-find-words-containing-character) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3866-first-unique-even-element) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2418-sort-the-people](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3019-number-of-changing-keys) |
