@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1550-three-consecutive-odds) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2418-sort-the-people](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3024-type-of-triangle) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Number Theory
 |  |
 | ------- |
