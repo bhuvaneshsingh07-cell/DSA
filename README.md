@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2974-minimum-number-game) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
