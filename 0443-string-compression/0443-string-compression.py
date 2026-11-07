@@ -15,18 +15,12 @@ class Solution(object):
                 count+=1
             chars[writeindex]=current
             writeindex+=1
-            divisor = 10 ** (len(str(count)) - 1)
-
+           
         
             if count>1:
-                
-                while divisor> 0:
-                    digit = count//divisor
-                    chars[writeindex]=str(digit)
+                for i in str(count):
+                    chars[writeindex]=i
                     writeindex+=1
-                    count = count % divisor
-                    divisor //= 10
-            
 
                 
         return writeindex
