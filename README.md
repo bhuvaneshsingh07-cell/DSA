@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1773-count-items-matching-a-rule) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/bhuvaneshsingh07-cell/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Ternary Search
